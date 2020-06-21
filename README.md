@@ -16,6 +16,6 @@ For this dataset, I used OpenCV to resize all images into the same height of min
 
 ## The result:
 Metrics:
-Character Error Rate: 0.10754718033277248
-Word Error Rate:      0.2622086247086247
-Sequence Error Rate:  0.7
+- Character Error Rate: 0.10754718033277248
+- Word Error Rate:      0.2622086247086247
+- Sequence Error Rate:  0.7
