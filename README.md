@@ -1,5 +1,5 @@
 # Cinamon-AI-Marathon-Challenge
-Handwiritng OCR for Vietnamese Address
+Handwriting OCR for Vietnamese Address
 
 ## Problem Statement: 
 Given an image of a handwritten line, participants are required to create an OCR model to transcribe the image into text.
